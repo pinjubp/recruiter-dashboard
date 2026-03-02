@@ -1,0 +1,11 @@
+{
+    "agents": [
+        "gemini",
+        "opencode",
+        "cursor"
+    ],
+    "guidelines": true,
+    "skills": [
+        "pest-testing"
+    ]
+}
